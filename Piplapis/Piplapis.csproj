@@ -8,7 +8,7 @@
     <ProjectGuid>{E9921187-C395-422D-844A-6136C55CD6BC}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>piplclient</RootNamespace>
+    <RootNamespace>Pipl.APIs</RootNamespace>
     <AssemblyName>piplclient</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
